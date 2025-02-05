@@ -1,0 +1,83 @@
+\documentclass{beamer}
+\usetheme{CERN}
+
+\usepackage{amsfonts,amsmath,oldgerm,algorithmic,algorithm} % Math packages
+
+\usepackage{tikz} % Tikz package for drawing 
+\usetikzlibrary{calc}
+\usetikzlibrary{shapes.callouts}
+
+% \usepackage{pdfpages} % For including pdf files
+\usepackage{geometry}
+
+% TODO: For including code snippets
+% \usepackage{listings}
+% \usepackage{minted}
+
+\usepackage{hyperref}
+\hypersetup{%
+  colorlinks=false,% hyperlinks will be black
+  urlbordercolor = black,
+  % linkbordercolor=red,% hyperlink borders will be red
+  pdfborderstyle={/S/U/W 1}% border style will be underline of width 1pt
+}
+
+% For Tables and Figures
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{caption} 
+\captionsetup{font=tiny,labelfont=bf,skip=0pt, justification=centering}
+\usepackage{subcaption}
+\usepackage{float}
+
+
+
+\usepackage[append]{beamersubframe}
+
+\beamertemplategridbackground[1cm]
+\setbeamersize
+{
+    text margin left=1cm,
+    text margin right=1cm
+}
+
+\AtBeginSection[]{
+  \begin{frame}
+  \vfill
+  \centering
+  \begin{beamercolorbox}[sep=8pt,center,shadow=false,rounded=false]{title}
+    \usebeamerfont{title}\insertsectionhead\par%
+  \end{beamercolorbox}
+  \vfill
+  \end{frame}
+}
+
+
+
+\title{Work Summary}
+\subtitle{Liverpool FASER Meeting}
+\date{February 7, 2025}
+\author{Pawan Johnson}
+\institute{University of Liverpool}
+% \date{\today}
+
+
+\begin{document}
+
+\begingroup
+\setbeamertemplate{footline}{}
+\begin{frame}
+    \maketitle
+\end{frame}
+\endgroup
+
+\input{chapters/chapter1.tex}
+\input{chapters/chapter2.tex}
+\input{chapters/chapter3.tex}
+\input{chapters/chapter4.tex}
+
+% \section{Backup}
+\appendix
+\appendsubframes
+
+\end{document}
