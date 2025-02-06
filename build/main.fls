@@ -1595,6 +1595,16 @@ INPUT ./assets/ModuleThumbnail.png
 INPUT assets/ModuleThumbnail.png
 INPUT ./assets/ModuleThumbnail.png
 INPUT ./assets/ModuleThumbnail.png
+INPUT ./assets/st0_module_number vs st1_module_number_prob_2023.pdf
+INPUT ./assets/st0_module_number vs st1_module_number_prob_2023.pdf
+INPUT assets/st0_module_number vs st1_module_number_prob_2023.pdf
+INPUT ./assets/st0_module_number vs st1_module_number_prob_2023.pdf
+INPUT ./assets/st0_module_number vs st1_module_number_prob_2023.pdf
+INPUT ./assets/st0_module_number vs st1_module_number_prob_2024.pdf
+INPUT ./assets/st0_module_number vs st1_module_number_prob_2024.pdf
+INPUT assets/st0_module_number vs st1_module_number_prob_2024.pdf
+INPUT ./assets/st0_module_number vs st1_module_number_prob_2024.pdf
+INPUT ./assets/st0_module_number vs st1_module_number_prob_2024.pdf
 INPUT ./assets/Track_Chi2perDoF_st0_2023.pdf
 INPUT ./assets/Track_Chi2perDoF_st0_2023.pdf
 INPUT assets/Track_Chi2perDoF_st0_2023.pdf
@@ -1604,6 +1614,7 @@ INPUT ./chapters/chapter3.tex
 INPUT chapters/chapter3.tex
 INPUT ./chapters/chapter3.tex
 INPUT chapters/chapter3.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
 INPUT ./assets/OverlayTracks.png
 INPUT ./assets/OverlayTracks.png
 INPUT assets/OverlayTracks.png
@@ -1630,6 +1641,7 @@ INPUT build/main.aux
 INPUT build/main.out
 INPUT build/main.out
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb

@@ -23,16 +23,20 @@
 \headcommand {\beamer@framepages {11}{11}}
 \headcommand {\slideentry {0}{0}{12}{12/12}{}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\gdef \insertmainframenumber {12}}
-\headcommand {\bsf@partpages {13}{12}{13}{12}}
-\headcommand {\bsf@sectionpages {13}{12}{1}{12}}
-\headcommand {\bsf@subsectionpages {13}{12}{1}{12}}
-\headcommand {\bsf@documentpages {12}}
+\headcommand {\slideentry {0}{0}{13}{13/13}{}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {0}{0}{14}{14/14}{}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\gdef \insertmainframenumber {14}}
+\headcommand {\bsf@partpages {15}{14}{15}{14}}
+\headcommand {\bsf@sectionpages {15}{14}{1}{14}}
+\headcommand {\bsf@subsectionpages {15}{14}{1}{14}}
+\headcommand {\bsf@documentpages {14}}
 \headcommand {\bsf@disablenaventries }
-\headcommand {\beamer@partpages {13}{12}}
-\headcommand {\beamer@subsectionpages {13}{12}}
-\headcommand {\beamer@sectionpages {13}{12}}
-\headcommand {\beamer@documentpages {12}}
-\headcommand {\gdef \inserttotalframenumber {12}}
-\headcommand {\def \inserttotalframenumber {12}}
-\headcommand {\def \inserttotalframenumberwithsub {12}}
+\headcommand {\beamer@partpages {15}{14}}
+\headcommand {\beamer@subsectionpages {15}{14}}
+\headcommand {\beamer@sectionpages {15}{14}}
+\headcommand {\beamer@documentpages {14}}
+\headcommand {\gdef \inserttotalframenumber {14}}
+\headcommand {\def \inserttotalframenumber {14}}
+\headcommand {\def \inserttotalframenumberwithsub {14}}

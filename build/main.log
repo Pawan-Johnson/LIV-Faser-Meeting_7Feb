@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.6)  5 FEB 2025 17:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.6)  6 FEB 2025 22:50
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -855,12 +855,12 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 ]) (./chapters/chapter2.tex [3
 
 ]
-<assets/Track_x0.pdf, id=38, 569.12625pt x 385.44pt>
+<assets/Track_x0.pdf, id=39, 569.12625pt x 385.44pt>
 File: assets/Track_x0.pdf Graphic file (type pdf)
 <use assets/Track_x0.pdf>
 Package pdftex.def Info: assets/Track_x0.pdf  used on input line 41.
 (pdftex.def)             Requested size: 153.64493pt x 104.05843pt.
-<assets/Track_y0.pdf, id=39, 569.12625pt x 385.44pt>
+<assets/Track_y0.pdf, id=40, 569.12625pt x 385.44pt>
 File: assets/Track_y0.pdf Graphic file (type pdf)
 <use assets/Track_y0.pdf>
 Package pdftex.def Info: assets/Track_y0.pdf  used on input line 41.
@@ -868,7 +868,7 @@ Package pdftex.def Info: assets/Track_y0.pdf  used on input line 41.
  [4
 
  <./assets/Track_x0.pdf, page is rotated 90 degrees> <./assets/Track_y0.pdf, page is rotated 90 degrees>]
-<assets/Track_p0.pdf, id=133, 569.12625pt x 385.44pt>
+<assets/Track_p0.pdf, id=134, 569.12625pt x 385.44pt>
 File: assets/Track_p0.pdf Graphic file (type pdf)
 <use assets/Track_p0.pdf>
 Package pdftex.def Info: assets/Track_p0.pdf  used on input line 57.
@@ -878,49 +878,64 @@ Package pdftex.def Info: assets/Track_p0.pdf  used on input line 57.
  <./assets/Track_p0.pdf, page is rotated 90 degrees>] [6
 
 ]
-<assets/Positions_st0_truemodule0.pdf, id=189, 569.12625pt x 736.7525pt>
+<assets/Positions_st0_truemodule0.pdf, id=190, 569.12625pt x 736.7525pt>
 File: assets/Positions_st0_truemodule0.pdf Graphic file (type pdf)
 <use assets/Positions_st0_truemodule0.pdf>
-Package pdftex.def Info: assets/Positions_st0_truemodule0.pdf  used on input line 104.
+Package pdftex.def Info: assets/Positions_st0_truemodule0.pdf  used on input line 105.
 (pdftex.def)             Requested size: 140.84833pt x 182.33519pt.
-<assets/ModuleThumbnail.png, id=190, 693.59125pt x 694.595pt>
+<assets/ModuleThumbnail.png, id=191, 693.59125pt x 694.595pt>
 File: assets/ModuleThumbnail.png Graphic file (type png)
 <use assets/ModuleThumbnail.png>
-Package pdftex.def Info: assets/ModuleThumbnail.png  used on input line 104.
+Package pdftex.def Info: assets/ModuleThumbnail.png  used on input line 105.
 (pdftex.def)             Requested size: 73.63885pt x 73.74919pt.
  [7
 
  <./assets/Positions_st0_truemodule0.pdf> <./assets/ModuleThumbnail.png (PNG copy)>]
-<assets/Track_Chi2perDoF_st0_2023.pdf, id=243, 569.12625pt x 408.52625pt>
-File: assets/Track_Chi2perDoF_st0_2023.pdf Graphic file (type pdf)
-<use assets/Track_Chi2perDoF_st0_2023.pdf>
-Package pdftex.def Info: assets/Track_Chi2perDoF_st0_2023.pdf  used on input line 115.
-(pdftex.def)             Requested size: 215.10196pt x 154.40628pt.
+<assets/st0_module_number vs st1_module_number_prob_2023.pdf, id=244, 569.12625pt x 385.44pt>
+File: assets/st0_module_number vs st1_module_number_prob_2023.pdf Graphic file (type pdf)
+<use assets/st0_module_number vs st1_module_number_prob_2023.pdf>
+Package pdftex.def Info: assets/st0_module_number vs st1_module_number_prob_2023.pdf  used on input line 132.
+(pdftex.def)             Requested size: 153.64493pt x 104.05843pt.
+<assets/st0_module_number vs st1_module_number_prob_2024.pdf, id=245, 569.12625pt x 385.44pt>
+File: assets/st0_module_number vs st1_module_number_prob_2024.pdf Graphic file (type pdf)
+<use assets/st0_module_number vs st1_module_number_prob_2024.pdf>
+Package pdftex.def Info: assets/st0_module_number vs st1_module_number_prob_2024.pdf  used on input line 132.
+(pdftex.def)             Requested size: 153.64493pt x 104.05843pt.
  [8
 
- <./assets/Track_Chi2perDoF_st0_2023.pdf, page is rotated 90 degrees>]) (./chapters/chapter3.tex [9
+ <./assets/st0_module_number vs st1_module_number_prob_2023.pdf, page is rotated 90 degrees> <./assets/st0_module_number vs st1_module_number_prob_2024.pdf, page is rotated 90 degrees>]
+<assets/Track_Chi2perDoF_st0_2023.pdf, id=338, 569.12625pt x 408.52625pt>
+File: assets/Track_Chi2perDoF_st0_2023.pdf Graphic file (type pdf)
+<use assets/Track_Chi2perDoF_st0_2023.pdf>
+Package pdftex.def Info: assets/Track_Chi2perDoF_st0_2023.pdf  used on input line 144.
+(pdftex.def)             Requested size: 215.10196pt x 154.40628pt.
+ [9
+
+ <./assets/Track_Chi2perDoF_st0_2023.pdf, page is rotated 90 degrees>]) (./chapters/chapter3.tex [10
+
+] [11
 
 ]
-<assets/OverlayTracks.png, id=299, 2003.485pt x 1979.395pt>
+<assets/OverlayTracks.png, id=402, 2003.485pt x 1979.395pt>
 File: assets/OverlayTracks.png Graphic file (type png)
 <use assets/OverlayTracks.png>
-Package pdftex.def Info: assets/OverlayTracks.png  used on input line 36.
+Package pdftex.def Info: assets/OverlayTracks.png  used on input line 74.
 (pdftex.def)             Requested size: 122.9164pt x 121.41644pt.
-<assets/NEffi_greq2_DeltaR1.pdf, id=301, 569.12625pt x 408.52625pt>
+<assets/NEffi_greq2_DeltaR1.pdf, id=404, 569.12625pt x 408.52625pt>
 File: assets/NEffi_greq2_DeltaR1.pdf Graphic file (type pdf)
 <use assets/NEffi_greq2_DeltaR1.pdf>
-Package pdftex.def Info: assets/NEffi_greq2_DeltaR1.pdf  used on input line 36.
+Package pdftex.def Info: assets/NEffi_greq2_DeltaR1.pdf  used on input line 74.
 (pdftex.def)             Requested size: 169.01035pt x 121.31833pt.
 
-Overfull \hbox (15.36542pt too wide) in paragraph at lines 36--36
+Overfull \hbox (15.36542pt too wide) in paragraph at lines 74--74
  [] 
  []
 
-[10
+[12
 
- <./assets/OverlayTracks.png> <./assets/NEffi_greq2_DeltaR1.pdf, page is rotated 90 degrees>]) (./chapters/chapter4.tex [11
+ <./assets/OverlayTracks.png> <./assets/NEffi_greq2_DeltaR1.pdf, page is rotated 90 degrees>]) (./chapters/chapter4.tex [13
 
-] [12
+] [14
 
 ])
 
@@ -945,18 +960,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 27694 strings out of 476034
- 560549 string characters out of 5792865
- 1860388 words of memory out of 6000000
- 47525 multiletter control sequences out of 15000+600000
- 523725 words of font info for 73 fonts, out of 8000000 for 9000
+ 27722 strings out of 476034
+ 561664 string characters out of 5792865
+ 1872388 words of memory out of 6000000
+ 47546 multiletter control sequences out of 15000+600000
+ 524019 words of font info for 74 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  128i,15n,122p,433b,696s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on build/main.pdf (12 pages, 444053 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on build/main.pdf (14 pages, 485902 bytes).
 PDF statistics:
- 417 PDF objects out of 1000 (max. 8388607)
- 214 compressed objects within 3 object streams
- 25 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 526 PDF objects out of 1000 (max. 8388607)
+ 267 compressed objects within 3 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
