@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.6)  6 FEB 2025 22:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.6)  7 FEB 2025 09:51
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -894,12 +894,12 @@ Package pdftex.def Info: assets/ModuleThumbnail.png  used on input line 105.
 <assets/st0_module_number vs st1_module_number_prob_2023.pdf, id=244, 569.12625pt x 385.44pt>
 File: assets/st0_module_number vs st1_module_number_prob_2023.pdf Graphic file (type pdf)
 <use assets/st0_module_number vs st1_module_number_prob_2023.pdf>
-Package pdftex.def Info: assets/st0_module_number vs st1_module_number_prob_2023.pdf  used on input line 132.
+Package pdftex.def Info: assets/st0_module_number vs st1_module_number_prob_2023.pdf  used on input line 133.
 (pdftex.def)             Requested size: 153.64493pt x 104.05843pt.
 <assets/st0_module_number vs st1_module_number_prob_2024.pdf, id=245, 569.12625pt x 385.44pt>
 File: assets/st0_module_number vs st1_module_number_prob_2024.pdf Graphic file (type pdf)
 <use assets/st0_module_number vs st1_module_number_prob_2024.pdf>
-Package pdftex.def Info: assets/st0_module_number vs st1_module_number_prob_2024.pdf  used on input line 132.
+Package pdftex.def Info: assets/st0_module_number vs st1_module_number_prob_2024.pdf  used on input line 133.
 (pdftex.def)             Requested size: 153.64493pt x 104.05843pt.
  [8
 
@@ -907,7 +907,7 @@ Package pdftex.def Info: assets/st0_module_number vs st1_module_number_prob_2024
 <assets/Track_Chi2perDoF_st0_2023.pdf, id=338, 569.12625pt x 408.52625pt>
 File: assets/Track_Chi2perDoF_st0_2023.pdf Graphic file (type pdf)
 <use assets/Track_Chi2perDoF_st0_2023.pdf>
-Package pdftex.def Info: assets/Track_Chi2perDoF_st0_2023.pdf  used on input line 144.
+Package pdftex.def Info: assets/Track_Chi2perDoF_st0_2023.pdf  used on input line 145.
 (pdftex.def)             Requested size: 215.10196pt x 154.40628pt.
  [9
 
@@ -919,15 +919,15 @@ Package pdftex.def Info: assets/Track_Chi2perDoF_st0_2023.pdf  used on input lin
 <assets/OverlayTracks.png, id=402, 2003.485pt x 1979.395pt>
 File: assets/OverlayTracks.png Graphic file (type png)
 <use assets/OverlayTracks.png>
-Package pdftex.def Info: assets/OverlayTracks.png  used on input line 74.
+Package pdftex.def Info: assets/OverlayTracks.png  used on input line 76.
 (pdftex.def)             Requested size: 122.9164pt x 121.41644pt.
 <assets/NEffi_greq2_DeltaR1.pdf, id=404, 569.12625pt x 408.52625pt>
 File: assets/NEffi_greq2_DeltaR1.pdf Graphic file (type pdf)
 <use assets/NEffi_greq2_DeltaR1.pdf>
-Package pdftex.def Info: assets/NEffi_greq2_DeltaR1.pdf  used on input line 74.
+Package pdftex.def Info: assets/NEffi_greq2_DeltaR1.pdf  used on input line 76.
 (pdftex.def)             Requested size: 169.01035pt x 121.31833pt.
 
-Overfull \hbox (15.36542pt too wide) in paragraph at lines 74--74
+Overfull \hbox (15.36542pt too wide) in paragraph at lines 76--76
  [] 
  []
 
@@ -968,7 +968,7 @@ Here is how much of TeX's memory you used:
  1137 hyphenation exceptions out of 8191
  128i,15n,122p,433b,696s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on build/main.pdf (14 pages, 485902 bytes).
+Output written on build/main.pdf (14 pages, 485926 bytes).
 PDF statistics:
  526 PDF objects out of 1000 (max. 8388607)
  267 compressed objects within 3 object streams
